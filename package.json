@@ -4,6 +4,10 @@
         "build": "vuepress build"
     },
     "devDependencies": {
+        "directory-tree": "^2.1.0",
+        "lodash.isarray": "^4.0.0",
+        "lodash.mergewith": "^4.6.1",
+        "lodash.startcase": "^4.4.0",
         "vuepress": "^0.14.2"
     }
 }
