@@ -14,15 +14,59 @@ limited to:
 -   Feature Sets
     -   Controls
     -   Objects
+        -   Physics
+            -   Normal
+            -   Fixed
+                -   Weapon Holders
+                -   Teleporters
+                -   Foundry
+            -   Phasing
+                -   Interlocking
+                -   Geomerging
+        -   Coloring
+        -   Magnets
+        -   Texturing
     -   Scripting
+    -   Objectives
+        -   Spawns
+        -   Flags
+        -   Balls
+        -   Zones
     -   Themes
+        -   Human
+        -   Covenant
+        -   Forerunner
+        -   Sangheili
+    -   Lighting
+    -   Terrain
+        -   Tin Cups
 -   Production Lifecycle
     -   Ideation
+        -   Coop Forging
     -   Functionality
+        -   Blockouts
+        -   Spawning
+        -   Objectives
     -   Art
+        -   Skyboxes
+        -   Weather
+        -   Theme
     -   Playtesting
+        -   Kleenex Testing
+        -   Veteran Testing
+        -   Pro Testing
     -   Quality Assurance
+        -   Containment
+        -   Z-fighting
     -   Publishing
+        -   Title/Description
+        -   Weapon List
+        -   Gametype List
+        -   Matchmaking Submission
+    -   Marketing
+        -   Video Clips
+        -   Screenshots
+        -   Reviews
     -   Maintenance
 -   Supporting Systems
     -   File Management
@@ -35,6 +79,10 @@ limited to:
     -   XForgery
     -   GrifballHub
     -   Community Cartographers
+    -   Atlas
+    -   Forge.World
+    -   ReachingPerfection
+    -   HaloTracks
 -   Sustainment
     -   Community Cartographers
     -   Contests
